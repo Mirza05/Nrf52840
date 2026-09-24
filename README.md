@@ -1,6 +1,5 @@
 # Nrf52840 
-DIY
-Pins in Arduino IDE
+# Pins in Arduino IDE
 Подпись  |   Физический  |    Имя в коде  |  Назначение / Примечание
 на плате  |    пин                 |    (Arduino)       |
 9                |   P0.26               |    D9                  |               GPIO (свободный)
